@@ -1,3 +1,3 @@
 ## Amazon Clone
 
-A basic webite of amazon
+A basic clone webite of amazon
