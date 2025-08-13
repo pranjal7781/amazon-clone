@@ -13,3 +13,10 @@ This project replicates the basic layout and styling of the Amazon homepage, inc
 -Responsive design (optional if you made it mobile-friendly)
 
 -Styled footer similar to Amazon
+
+---
+
+🛠️ Tech Stack
+HTML5 – Structure and content
+
+CSS3 – Styling and layout
