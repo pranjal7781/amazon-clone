@@ -4,7 +4,7 @@ This project replicates the basic layout and styling of the Amazon homepage, inc
 
 ---
 
-📌 Features
+## 📌 Features
 
 -Amazon-style navigation bar with logo and search bar
 
@@ -16,7 +16,7 @@ This project replicates the basic layout and styling of the Amazon homepage, inc
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 HTML5 – Structure and content
 
 CSS3 – Styling and layout
